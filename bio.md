@@ -1,3 +1,7 @@
+Joe is a software development coach, ex-ThoughtWorker and a pasta sauce specialist. He helps developers grow and work together.
+
+---
+
 Joe Wright is a tech lead who specialises in helping teams with legacy codebases. He targets the culture of teams, helping them overcome what they fear while improving their technical capabilities.
 
 He ran the first Code Retreat in Western Europe in 2009 and dabbled with the Randori technique for coding dojos. It was 2015 when he joined a team using mob programming for real work and has since introduced new teams to mob programming.
